@@ -1,3 +1,11 @@
+/*
+Author: Tevin Too
+Reg Number: BCs-05-0077/2026
+Description: User details prompter
+Date: 2nd September 2026
+Version 1
+*/
+
 #include <stdio.h>
 
 int main()
